@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>men sabaq oqidim</title>
+<title>men sabaq oqidim</title> 
 </head>
 <body align='center'bgcolor='aqua'>
 <h1>URAAAAA UIRENIP JATIRM</H1>
